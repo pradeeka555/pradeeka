@@ -13,33 +13,12 @@
 ### 📊 Data Analysis
 
 <div align="center">
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft-excel-2019.svg" alt="Excel" height="50" /></a>
+<a href="https://www.microsoft excel.com/en-us/microsoft-365/excel" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft-excel-2019.svg" alt="Excel" height="50" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
 <a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="50" /></a>
-</div>
-
-</td><td valign="top" width="33%">
-
-### 📈 Libraries & Tools
-
-<div align="center">
-<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" alt="Pandas" height="50" /></a>
-<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/numpy-original.svg" alt="NumPy" height="50" /></a>
-<a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jupyter.svg" alt="Jupyter Notebook" height="50" /></a>
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-</div>
-
-</td><td valign="top" width="33%">
-
-### 📉 Visualization
-
-<div align="center">
-<a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="50" /></a>
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>
 </div>
-
-</td></tr></table>
 
 
 </td></tr></table>  
