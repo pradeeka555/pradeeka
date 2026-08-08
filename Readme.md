@@ -1,21 +1,11 @@
-
-### <div align="left">I'm Pradeeka, passionate Data analytics 👨‍💻 🚀</div>  
+### <div align="left">I'm Pradeeka R, Passionate Data Analytics 👨‍💻 🚀</div>  
   
-
-## 👋 About Me
-
 🎓 B.E. Electrical and Electronics Engineering (EEE) Graduate  
 📊 Aspiring Data Analyst  
 💻 Skills: SQL | Python | Microsoft Excel | Power BI  
 📈 Interested in Data Analytics, Data Visualization & Business Intelligence
 
 <br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
 
 ## 💻 My Skill Set
 <table><tr><td valign="top" width="33%">
@@ -115,8 +105,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=header"/>
 </p>
-
-  
 
 <br/>  
 
