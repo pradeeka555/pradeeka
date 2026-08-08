@@ -2,14 +2,12 @@
 ### <div align="left">I'm Pradeeka, passionate Data analytics 👨‍💻 🚀</div>  
   
 
-- 🔭 Final year of B.E program, focusing on Electrical and Electronics Engineering at Bannari Amman Institute of Technology  
-  
+## 👋 About Me
 
-- 🌱 I’m currently learning Data Analytics and AI&ML  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+🎓 B.E. Electrical and Electronics Engineering (EEE) Graduate  
+📊 Aspiring Data Analyst  
+💻 Skills: SQL | Python | Microsoft Excel | Power BI  
+📈 Interested in Data Analytics, Data Visualization & Business Intelligence
 
 <br/>  
 
